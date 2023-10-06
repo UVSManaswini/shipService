@@ -6,6 +6,6 @@ public interface IShipment {
 	
 	public boolean deleteShipment(); // delete shipment
 	
-	public boolean getShipment();
+	public boolean getShipment(); // get shipment
 	
 }
