@@ -4,7 +4,7 @@ public interface IShipment {
 	
 	public boolean addShipment(); // add shipment
 	
-	public boolean deleteShipment();
+	public boolean deleteShipment(); // delete shipment
 	
 	public boolean getShipment();
 	
